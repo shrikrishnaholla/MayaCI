@@ -14,5 +14,23 @@
     "body-parser": "~1.0.0",
     "debug": "~0.7.4",
     "ejs": "~0.8.5"
-  }
+  },
+  "description": "MayaCI ======",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrikrishnaholla/MayaCI.git"
+  },
+  "keywords": [
+    "git",
+    "docker",
+    "CI"
+  ],
+  "author": "SKH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrikrishnaholla/MayaCI/issues"
+  },
+  "homepage": "https://github.com/shrikrishnaholla/MayaCI"
 }
